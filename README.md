@@ -13,3 +13,4 @@ This web interface will be designed so simple as a jukebox works with a menu of 
 
 Additionally, it will be created behind the scenes an ARM template or Biceps to implement that environment on Azure.
 
+![image](https://user-images.githubusercontent.com/97529152/189689703-be47d73b-352b-4085-aa2d-0c0f1bb081de.png)
